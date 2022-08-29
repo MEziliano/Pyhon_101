@@ -1,16 +1,11 @@
-# python_marathon
+# Python
+This repository contains all my files write in python. <br>
+Here you will find files about concpets, easy projects conclued and other stuffs. 
 Intensive course of Python. That repository contains all the files from the Marathon of Python. 
-1.
-2.
-3.
 
-<div>
-<img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<a href = "https://replit.com/@MuriloEziliano"><img align="center" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" /></a>
-<img align="center" src="https://img.shields.io/badge/BeatifulSoap-000000?style=for-the-badge&logo=Soap&logoColor=black"/>
-<img align="center" src="https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=Requests&logoColor=black"/>
-<img align="center" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-</div>
+
+
+
 
 <details><summary> Content</summary>
 <p>
@@ -83,3 +78,11 @@ Intensive course of Python. That repository contains all the files from the Mara
   
   </p>
   </details>
+  
+  <div>
+<img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<a href = "https://replit.com/@MuriloEziliano"><img align="center" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" /></a>
+<img align="center" src="https://img.shields.io/badge/BeatifulSoap-000000?style=for-the-badge&logo=Soap&logoColor=black"/>
+<img align="center" src="https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=Requests&logoColor=black"/>
+<img align="center" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+</div>
